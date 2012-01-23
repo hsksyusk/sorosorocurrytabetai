@@ -1,0 +1,8 @@
+[% PROCESS macro.tt %]
+<div id="top_page" class="clearfix">
+	<img id="logo" src="/sorosorocurrytabetai/root/static/images/[% l('logo_img') %]" alt="[% l('site_title') %]" />
+	<br/>
+	<img id="about" src="/sorosorocurrytabetai/root/static/images/[% l('about_img') %]" alt="[% l('about_alt') %]" />
+	<br/>
+	<p><a href="[% base %]setting"><img id="button_login" src="/sorosorocurrytabetai/root/static/images/[% l('button_login_img') %]" alt="[% l('button_login_alt') %]" /></a></p>
+</div>

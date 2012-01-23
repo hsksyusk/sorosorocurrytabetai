@@ -1,0 +1,10 @@
+setting:
+  period:
+    NOT_BLANK: message_setting_period_notblank
+    BETWEEN: message_setting_period_between
+  keyword:
+    NOT_BLANK: message_setting_keyword_notblank
+    JLENGTH: message_setting_keyword_jlength
+  message:
+    NOT_BLANK: message_setting_message_notblank
+    JLENGTH: message_setting_message_jlength

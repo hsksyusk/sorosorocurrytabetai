@@ -1,0 +1,205 @@
+[% PROCESS macro.tt %]
+html {
+    height: 100%;
+}
+
+body {
+    background-color: [% site.col.page %];
+    color: [% site.col.text %];
+    margin: 0 auto;
+    padding: 0px;
+    height: 100%;
+	width: 800px;
+	font-size:90%;
+	line-height: 1.25em;
+}
+
+a{
+	color:[% site.col.a %];
+	text-decoration:underline;
+}
+
+img {
+	border:0;
+}
+
+li {
+	list-style-type: none;
+}
+
+.clearfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+  height: 0;
+  visibility: hidden;
+}
+
+.clearfix {
+  min-height: 1px;
+}
+
+#header {
+    background-color: [% site.col.head %];
+}
+
+#footer {
+    background-color: [% site.col.foot %];
+    text-align: center;
+    bottom: 0;
+    left: 0px;
+    padding: 0px;
+	margin-bottom:20px;
+}
+
+#content {
+    padding: 0;
+}
+
+h1.title {
+    padding: 4px;
+    margin: 0px;
+}
+
+.message {
+    color: [% site.col.message %];
+}
+
+.error {
+    color: [% site.col.error %];
+}
+
+div#top_page {
+	text-align:center;
+	padding-bottom: 50px;
+}
+
+img#logo {
+	margin:50px 0;
+}
+
+img#about {
+	margin-bottom:50px;
+}
+
+div#top_page p#notice{
+	text-align:center;
+	padding-top: 10px;
+}
+
+div#setting_page {
+	margin-top:20px;
+}
+div#setting_page div#regist_area {
+	clear:both;
+	float:left;
+	background-image:url("/sorosorocurrytabetai/root/static/images/sorosorocurry_edit_outline01.png");
+	background-repeat:no-repeat;
+	width:[% l('css_div_regist_area_width') %];
+	height:[% l('css_div_regist_area_height') %];
+	padding:[% l('css_div_regist_area_padding') %];
+	margin:20px 10px;
+}
+
+div#setting_page div.edit_area {
+	clear:both;
+	float:right;
+	background-image:url("/sorosorocurrytabetai/root/static/images/sorosorocurry_edit_outline02.png");
+	background-repeat:no-repeat;
+	width:[% l('css_div_edit_area_width') %];
+	height:[% l('css_div_edit_area_height') %];
+	padding:[% l('css_div_edit_area_padding') %];
+	margin:20px 10px;
+}
+
+div#setting_page input.input_period{
+	width: 3em;
+	text-align: right;
+}
+div#setting_page input.input_keyword{
+	width: 8em;
+}
+div#setting_page input.input_message{
+	width: [% l('css_input_input_message_width') %];
+}
+
+div#setting_page div#regist_area input{
+	font-size: large;
+	font-weight:bold;
+	margin:[% l('css_div_regist_area_input_margin') %];
+}
+
+div#setting_page div#regist_area img.toiu{
+	margin-top: 20px;
+}
+
+div#setting_page img {
+	margin: 5px;
+	vertical-align: [% l('css_div_setting_page_img_verticalalign') %];
+}
+div#setting_page div#regist_area img {
+	margin: [% l('css_div_regist_area_img_margin') %];
+	vertical-align: bottom;
+}
+div#setting_page div.edit_area img {
+	margin: [% l('css_div_edit_area_img_margin') %];
+}
+
+div#setting_page form {
+	margin:0;
+}
+
+
+div#setting_page div.edit_area form.edit_form{
+	width:[% l('css_form_edit_form_width') %];
+}
+div#setting_page div.edit_area form.delete_form{
+	float:right;
+	margin-top: [% l('css_form_delete_form_margintop') %];
+}
+
+div#setting_page .button {
+	float:right;
+	margin-left: 15px;
+}
+div#setting_page div#regist_area input.add {
+	float:right;
+	margin-top: [% l('css_div_setting_page_button_add_margintop') %];
+}
+
+div#setting_page div.edit_area p.latest_tweet{
+	clear:both;
+	padding:10px 0 0;
+	margin:0;
+}
+div#setting_page div#logout {
+	clear: both;
+	text-align:center;
+}
+div#setting_page input {
+	margin:5px 0;
+}
+
+div#copyright .lefttextimage{
+	margin-right: 10px;
+}
+
+.sbm_area {
+	float:right;
+	margin: 0;
+}
+
+.sbm {
+	padding: 0;
+	margin: 10px 0 0;
+}
+
+.sbm li {
+	float:left;
+	margin: 0 0 0 10px;
+}
+
+.sbm li#facebook {
+	width:45px;
+	margin-right:40px;
+}

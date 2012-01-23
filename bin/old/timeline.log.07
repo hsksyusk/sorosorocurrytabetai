@@ -1,0 +1,1308 @@
+timeline.pl start at 2011-05-18T16:05:39
+start foreach at 2011-05-18T16:05:39
+foreach id=9 at 2011-05-18T16:05:39
+  while page=1 at 2011-05-18T16:05:39
+    user_timeline start at 2011-05-18T16:05:39
+check_tweet start at 2011-05-18T16:05:40
+foreach id=330 at 2011-05-18T16:05:40
+  while page=1 at 2011-05-18T16:05:40
+    user_timeline start at 2011-05-18T16:05:40
+check_tweet start at 2011-05-18T16:05:41
+foreach id=28 at 2011-05-18T16:05:41
+  while page=1 at 2011-05-18T16:05:41
+    user_timeline start at 2011-05-18T16:05:41
+check_tweet start at 2011-05-18T16:05:42
+foreach id=17 at 2011-05-18T16:05:42
+  while page=1 at 2011-05-18T16:05:42
+    user_timeline start at 2011-05-18T16:05:42
+check_tweet start at 2011-05-18T16:05:42
+foreach id=40 at 2011-05-18T16:05:42
+  while page=1 at 2011-05-18T16:05:42
+    user_timeline start at 2011-05-18T16:05:42
+check_tweet start at 2011-05-18T16:05:43
+foreach id=19 at 2011-05-18T16:05:43
+  while page=1 at 2011-05-18T16:05:43
+    user_timeline start at 2011-05-18T16:05:43
+check_tweet start at 2011-05-18T16:05:43
+foreach id=21 at 2011-05-18T16:05:43
+  while page=1 at 2011-05-18T16:05:43
+    user_timeline start at 2011-05-18T16:05:43
+check_tweet start at 2011-05-18T16:05:44
+foreach id=22 at 2011-05-18T16:05:44
+  while page=1 at 2011-05-18T16:05:44
+    user_timeline start at 2011-05-18T16:05:44
+check_tweet start at 2011-05-18T16:05:45
+foreach id=15 at 2011-05-18T16:05:45
+  while page=1 at 2011-05-18T16:05:45
+    user_timeline start at 2011-05-18T16:05:45
+check_tweet start at 2011-05-18T16:05:45
+foreach id=23 at 2011-05-18T16:05:46
+  while page=1 at 2011-05-18T16:05:46
+    user_timeline start at 2011-05-18T16:05:46
+check_tweet start at 2011-05-18T16:05:46
+foreach id=57 at 2011-05-18T16:05:46
+  while page=1 at 2011-05-18T16:05:46
+    user_timeline start at 2011-05-18T16:05:46
+check_tweet start at 2011-05-18T16:05:47
+foreach id=27 at 2011-05-18T16:05:47
+  while page=1 at 2011-05-18T16:05:47
+    user_timeline start at 2011-05-18T16:05:47
+check_tweet start at 2011-05-18T16:05:47
+foreach id=30 at 2011-05-18T16:05:47
+  while page=1 at 2011-05-18T16:05:47
+    user_timeline start at 2011-05-18T16:05:47
+check_tweet start at 2011-05-18T16:05:48
+foreach id=31 at 2011-05-18T16:05:48
+  while page=1 at 2011-05-18T16:05:48
+    user_timeline start at 2011-05-18T16:05:48
+check_tweet start at 2011-05-18T16:05:49
+foreach id=32 at 2011-05-18T16:05:49
+  while page=1 at 2011-05-18T16:05:49
+    user_timeline start at 2011-05-18T16:05:49
+check_tweet start at 2011-05-18T16:05:49
+foreach id=34 at 2011-05-18T16:05:49
+  while page=1 at 2011-05-18T16:05:49
+    user_timeline start at 2011-05-18T16:05:50
+check_tweet start at 2011-05-18T16:05:50
+foreach id=33 at 2011-05-18T16:05:50
+  while page=1 at 2011-05-18T16:05:50
+    user_timeline start at 2011-05-18T16:05:50
+check_tweet start at 2011-05-18T16:05:51
+foreach id=35 at 2011-05-18T16:05:51
+  while page=1 at 2011-05-18T16:05:51
+    user_timeline start at 2011-05-18T16:05:51
+check_tweet start at 2011-05-18T16:05:51
+foreach id=36 at 2011-05-18T16:05:51
+  while page=1 at 2011-05-18T16:05:51
+    user_timeline start at 2011-05-18T16:05:51
+check_tweet start at 2011-05-18T16:05:52
+foreach id=37 at 2011-05-18T16:05:52
+  while page=1 at 2011-05-18T16:05:52
+    user_timeline start at 2011-05-18T16:05:52
+check_tweet start at 2011-05-18T16:05:52
+foreach id=38 at 2011-05-18T16:05:52
+  while page=1 at 2011-05-18T16:05:53
+    user_timeline start at 2011-05-18T16:05:53
+check_tweet start at 2011-05-18T16:05:53
+foreach id=39 at 2011-05-18T16:05:53
+  while page=1 at 2011-05-18T16:05:53
+    user_timeline start at 2011-05-18T16:05:53
+    timeline update_or_new start at 2011-05-18T16:05:54
+    match start at 2011-05-18T16:05:54
+  while page=2 at 2011-05-18T16:05:54
+    user_timeline start at 2011-05-18T16:05:54
+check_tweet start at 2011-05-18T16:05:54
+foreach id=41 at 2011-05-18T16:05:54
+  while page=1 at 2011-05-18T16:05:55
+    user_timeline start at 2011-05-18T16:05:55
+    timeline update_or_new start at 2011-05-18T16:05:55
+    match start at 2011-05-18T16:05:55
+  while page=2 at 2011-05-18T16:05:55
+    user_timeline start at 2011-05-18T16:05:55
+check_tweet start at 2011-05-18T16:05:56
+foreach id=42 at 2011-05-18T16:05:56
+  while page=1 at 2011-05-18T16:05:56
+    user_timeline start at 2011-05-18T16:05:56
+check_tweet start at 2011-05-18T16:05:57
+foreach id=43 at 2011-05-18T16:05:57
+  while page=1 at 2011-05-18T16:05:57
+    user_timeline start at 2011-05-18T16:05:57
+check_tweet start at 2011-05-18T16:05:57
+foreach id=46 at 2011-05-18T16:05:57
+  while page=1 at 2011-05-18T16:05:57
+    user_timeline start at 2011-05-18T16:05:57
+check_tweet start at 2011-05-18T16:05:58
+foreach id=45 at 2011-05-18T16:05:58
+  while page=1 at 2011-05-18T16:05:58
+    user_timeline start at 2011-05-18T16:05:58
+check_tweet start at 2011-05-18T16:05:58
+foreach id=47 at 2011-05-18T16:05:58
+  while page=1 at 2011-05-18T16:05:58
+    user_timeline start at 2011-05-18T16:05:58
+check_tweet start at 2011-05-18T16:05:59
+foreach id=48 at 2011-05-18T16:05:59
+  while page=1 at 2011-05-18T16:05:59
+    user_timeline start at 2011-05-18T16:05:59
+    timeline update_or_new start at 2011-05-18T16:06:00
+    match start at 2011-05-18T16:06:00
+  while page=2 at 2011-05-18T16:06:00
+    user_timeline start at 2011-05-18T16:06:00
+check_tweet start at 2011-05-18T16:06:00
+foreach id=50 at 2011-05-18T16:06:00
+  while page=1 at 2011-05-18T16:06:00
+    user_timeline start at 2011-05-18T16:06:00
+check_tweet start at 2011-05-18T16:06:01
+foreach id=51 at 2011-05-18T16:06:01
+  while page=1 at 2011-05-18T16:06:01
+    user_timeline start at 2011-05-18T16:06:01
+check_tweet start at 2011-05-18T16:06:01
+foreach id=52 at 2011-05-18T16:06:01
+  while page=1 at 2011-05-18T16:06:02
+    user_timeline start at 2011-05-18T16:06:02
+    timeline update_or_new start at 2011-05-18T16:06:03
+    match start at 2011-05-18T16:06:03
+  while page=2 at 2011-05-18T16:06:03
+    user_timeline start at 2011-05-18T16:06:03
+check_tweet start at 2011-05-18T16:06:03
+foreach id=53 at 2011-05-18T16:06:03
+  while page=1 at 2011-05-18T16:06:03
+    user_timeline start at 2011-05-18T16:06:03
+check_tweet start at 2011-05-18T16:06:04
+foreach id=54 at 2011-05-18T16:06:04
+  while page=1 at 2011-05-18T16:06:04
+    user_timeline start at 2011-05-18T16:06:04
+check_tweet start at 2011-05-18T16:06:04
+foreach id=56 at 2011-05-18T16:06:04
+  while page=1 at 2011-05-18T16:06:05
+    user_timeline start at 2011-05-18T16:06:05
+check_tweet start at 2011-05-18T16:06:05
+foreach id=58 at 2011-05-18T16:06:05
+  while page=1 at 2011-05-18T16:06:05
+    user_timeline start at 2011-05-18T16:06:05
+check_tweet start at 2011-05-18T16:06:06
+foreach id=59 at 2011-05-18T16:06:06
+  while page=1 at 2011-05-18T16:06:06
+    user_timeline start at 2011-05-18T16:06:06
+check_tweet start at 2011-05-18T16:06:07
+foreach id=60 at 2011-05-18T16:06:07
+  while page=1 at 2011-05-18T16:06:07
+    user_timeline start at 2011-05-18T16:06:07
+check_tweet start at 2011-05-18T16:06:07
+foreach id=61 at 2011-05-18T16:06:07
+  while page=1 at 2011-05-18T16:06:07
+    user_timeline start at 2011-05-18T16:06:07
+check_tweet start at 2011-05-18T16:06:08
+foreach id=63 at 2011-05-18T16:06:08
+  while page=1 at 2011-05-18T16:06:08
+    user_timeline start at 2011-05-18T16:06:08
+check_tweet start at 2011-05-18T16:06:09
+foreach id=62 at 2011-05-18T16:06:09
+  while page=1 at 2011-05-18T16:06:09
+    user_timeline start at 2011-05-18T16:06:09
+check_tweet start at 2011-05-18T16:06:09
+foreach id=64 at 2011-05-18T16:06:09
+  while page=1 at 2011-05-18T16:06:09
+    user_timeline start at 2011-05-18T16:06:09
+check_tweet start at 2011-05-18T16:06:10
+foreach id=65 at 2011-05-18T16:06:10
+  while page=1 at 2011-05-18T16:06:10
+    user_timeline start at 2011-05-18T16:06:10
+check_tweet start at 2011-05-18T16:06:10
+foreach id=66 at 2011-05-18T16:06:10
+  while page=1 at 2011-05-18T16:06:11
+    user_timeline start at 2011-05-18T16:06:11
+check_tweet start at 2011-05-18T16:06:11
+foreach id=67 at 2011-05-18T16:06:11
+  while page=1 at 2011-05-18T16:06:11
+    user_timeline start at 2011-05-18T16:06:11
+check_tweet start at 2011-05-18T16:06:12
+foreach id=68 at 2011-05-18T16:06:12
+  while page=1 at 2011-05-18T16:06:12
+    user_timeline start at 2011-05-18T16:06:12
+check_tweet start at 2011-05-18T16:06:13
+foreach id=74 at 2011-05-18T16:06:13
+  while page=1 at 2011-05-18T16:06:13
+    user_timeline start at 2011-05-18T16:06:13
+    timeline update_or_new start at 2011-05-18T16:06:13
+    match start at 2011-05-18T16:06:14
+  while page=2 at 2011-05-18T16:06:14
+    user_timeline start at 2011-05-18T16:06:14
+check_tweet start at 2011-05-18T16:06:14
+foreach id=69 at 2011-05-18T16:06:14
+  while page=1 at 2011-05-18T16:06:14
+    user_timeline start at 2011-05-18T16:06:14
+check_tweet start at 2011-05-18T16:06:15
+foreach id=70 at 2011-05-18T16:06:15
+  while page=1 at 2011-05-18T16:06:15
+    user_timeline start at 2011-05-18T16:06:15
+check_tweet start at 2011-05-18T16:06:15
+foreach id=72 at 2011-05-18T16:06:15
+  while page=1 at 2011-05-18T16:06:15
+    user_timeline start at 2011-05-18T16:06:15
+check_tweet start at 2011-05-18T16:06:16
+foreach id=75 at 2011-05-18T16:06:16
+  while page=1 at 2011-05-18T16:06:16
+    user_timeline start at 2011-05-18T16:06:16
+    timeline update_or_new start at 2011-05-18T16:06:17
+    match start at 2011-05-18T16:06:17
+  while page=2 at 2011-05-18T16:06:17
+    user_timeline start at 2011-05-18T16:06:17
+check_tweet start at 2011-05-18T16:06:17
+foreach id=76 at 2011-05-18T16:06:17
+  while page=1 at 2011-05-18T16:06:17
+    user_timeline start at 2011-05-18T16:06:17
+    timeline update_or_new start at 2011-05-18T16:06:18
+    match start at 2011-05-18T16:06:18
+  while page=2 at 2011-05-18T16:06:18
+    user_timeline start at 2011-05-18T16:06:18
+check_tweet start at 2011-05-18T16:06:19
+foreach id=77 at 2011-05-18T16:06:19
+  while page=1 at 2011-05-18T16:06:19
+    user_timeline start at 2011-05-18T16:06:19
+    timeline update_or_new start at 2011-05-18T16:06:19
+    match start at 2011-05-18T16:06:19
+  while page=2 at 2011-05-18T16:06:19
+    user_timeline start at 2011-05-18T16:06:19
+check_tweet start at 2011-05-18T16:06:20
+foreach id=78 at 2011-05-18T16:06:20
+  while page=1 at 2011-05-18T16:06:20
+    user_timeline start at 2011-05-18T16:06:20
+    timeline update_or_new start at 2011-05-18T16:06:21
+    match start at 2011-05-18T16:06:21
+  while page=2 at 2011-05-18T16:06:21
+    user_timeline start at 2011-05-18T16:06:21
+check_tweet start at 2011-05-18T16:06:21
+foreach id=79 at 2011-05-18T16:06:21
+  while page=1 at 2011-05-18T16:06:21
+    user_timeline start at 2011-05-18T16:06:21
+check_tweet start at 2011-05-18T16:06:22
+foreach id=80 at 2011-05-18T16:06:22
+  while page=1 at 2011-05-18T16:06:22
+    user_timeline start at 2011-05-18T16:06:22
+check_tweet start at 2011-05-18T16:06:22
+foreach id=82 at 2011-05-18T16:06:22
+  while page=1 at 2011-05-18T16:06:22
+    user_timeline start at 2011-05-18T16:06:22
+check_tweet start at 2011-05-18T16:06:23
+foreach id=81 at 2011-05-18T16:06:23
+  while page=1 at 2011-05-18T16:06:23
+    user_timeline start at 2011-05-18T16:06:23
+    timeline update_or_new start at 2011-05-18T16:06:24
+    match start at 2011-05-18T16:06:24
+  while page=2 at 2011-05-18T16:06:24
+    user_timeline start at 2011-05-18T16:06:24
+check_tweet start at 2011-05-18T16:06:24
+foreach id=83 at 2011-05-18T16:06:24
+  while page=1 at 2011-05-18T16:06:24
+    user_timeline start at 2011-05-18T16:06:24
+check_tweet start at 2011-05-18T16:06:25
+foreach id=87 at 2011-05-18T16:06:25
+  while page=1 at 2011-05-18T16:06:25
+    user_timeline start at 2011-05-18T16:06:25
+check_tweet start at 2011-05-18T16:06:26
+foreach id=84 at 2011-05-18T16:06:26
+  while page=1 at 2011-05-18T16:06:26
+    user_timeline start at 2011-05-18T16:06:26
+check_tweet start at 2011-05-18T16:06:26
+foreach id=85 at 2011-05-18T16:06:26
+  while page=1 at 2011-05-18T16:06:26
+    user_timeline start at 2011-05-18T16:06:26
+check_tweet start at 2011-05-18T16:06:27
+foreach id=86 at 2011-05-18T16:06:27
+  while page=1 at 2011-05-18T16:06:27
+    user_timeline start at 2011-05-18T16:06:27
+    timeline update_or_new start at 2011-05-18T16:06:27
+    match start at 2011-05-18T16:06:27
+  while page=2 at 2011-05-18T16:06:27
+    user_timeline start at 2011-05-18T16:06:27
+check_tweet start at 2011-05-18T16:06:28
+foreach id=88 at 2011-05-18T16:06:28
+  while page=1 at 2011-05-18T16:06:28
+    user_timeline start at 2011-05-18T16:06:28
+    timeline update_or_new start at 2011-05-18T16:06:29
+    match start at 2011-05-18T16:06:29
+  while page=2 at 2011-05-18T16:06:29
+    user_timeline start at 2011-05-18T16:06:29
+check_tweet start at 2011-05-18T16:06:29
+foreach id=89 at 2011-05-18T16:06:29
+  while page=1 at 2011-05-18T16:06:29
+    user_timeline start at 2011-05-18T16:06:29
+check_tweet start at 2011-05-18T16:06:30
+foreach id=91 at 2011-05-18T16:06:30
+  while page=1 at 2011-05-18T16:06:30
+    user_timeline start at 2011-05-18T16:06:30
+check_tweet start at 2011-05-18T16:06:30
+foreach id=90 at 2011-05-18T16:06:30
+  while page=1 at 2011-05-18T16:06:31
+    user_timeline start at 2011-05-18T16:06:31
+check_tweet start at 2011-05-18T16:06:31
+foreach id=104 at 2011-05-18T16:06:31
+  while page=1 at 2011-05-18T16:06:31
+    user_timeline start at 2011-05-18T16:06:31
+check_tweet start at 2011-05-18T16:06:32
+foreach id=103 at 2011-05-18T16:06:32
+  while page=1 at 2011-05-18T16:06:32
+    user_timeline start at 2011-05-18T16:06:32
+check_tweet start at 2011-05-18T16:06:33
+foreach id=93 at 2011-05-18T16:06:33
+  while page=1 at 2011-05-18T16:06:33
+    user_timeline start at 2011-05-18T16:06:33
+    timeline update_or_new start at 2011-05-18T16:06:33
+    match start at 2011-05-18T16:06:33
+  while page=2 at 2011-05-18T16:06:33
+    user_timeline start at 2011-05-18T16:06:33
+check_tweet start at 2011-05-18T16:06:34
+foreach id=95 at 2011-05-18T16:06:34
+  while page=1 at 2011-05-18T16:06:34
+    user_timeline start at 2011-05-18T16:06:34
+check_tweet start at 2011-05-18T16:06:35
+foreach id=96 at 2011-05-18T16:06:35
+  while page=1 at 2011-05-18T16:06:35
+    user_timeline start at 2011-05-18T16:06:35
+check_tweet start at 2011-05-18T16:06:35
+foreach id=97 at 2011-05-18T16:06:35
+  while page=1 at 2011-05-18T16:06:35
+    user_timeline start at 2011-05-18T16:06:35
+check_tweet start at 2011-05-18T16:06:36
+foreach id=98 at 2011-05-18T16:06:36
+  while page=1 at 2011-05-18T16:06:36
+    user_timeline start at 2011-05-18T16:06:36
+check_tweet start at 2011-05-18T16:06:37
+foreach id=99 at 2011-05-18T16:06:37
+  while page=1 at 2011-05-18T16:06:37
+    user_timeline start at 2011-05-18T16:06:37
+check_tweet start at 2011-05-18T16:06:37
+foreach id=102 at 2011-05-18T16:06:37
+  while page=1 at 2011-05-18T16:06:37
+    user_timeline start at 2011-05-18T16:06:37
+check_tweet start at 2011-05-18T16:06:38
+foreach id=101 at 2011-05-18T16:06:38
+  while page=1 at 2011-05-18T16:06:38
+    user_timeline start at 2011-05-18T16:06:38
+check_tweet start at 2011-05-18T16:06:39
+foreach id=105 at 2011-05-18T16:06:39
+  while page=1 at 2011-05-18T16:06:39
+    user_timeline start at 2011-05-18T16:06:39
+check_tweet start at 2011-05-18T16:06:39
+foreach id=106 at 2011-05-18T16:06:39
+  while page=1 at 2011-05-18T16:06:39
+    user_timeline start at 2011-05-18T16:06:39
+check_tweet start at 2011-05-18T16:06:40
+foreach id=107 at 2011-05-18T16:06:40
+  while page=1 at 2011-05-18T16:06:40
+    user_timeline start at 2011-05-18T16:06:40
+check_tweet start at 2011-05-18T16:06:41
+foreach id=108 at 2011-05-18T16:06:41
+  while page=1 at 2011-05-18T16:06:41
+    user_timeline start at 2011-05-18T16:06:41
+check_tweet start at 2011-05-18T16:06:41
+foreach id=109 at 2011-05-18T16:06:41
+  while page=1 at 2011-05-18T16:06:41
+    user_timeline start at 2011-05-18T16:06:41
+check_tweet start at 2011-05-18T16:06:42
+foreach id=110 at 2011-05-18T16:06:42
+  while page=1 at 2011-05-18T16:06:42
+    user_timeline start at 2011-05-18T16:06:42
+    timeline update_or_new start at 2011-05-18T16:06:42
+    match start at 2011-05-18T16:06:42
+  while page=2 at 2011-05-18T16:06:42
+    user_timeline start at 2011-05-18T16:06:42
+check_tweet start at 2011-05-18T16:06:43
+foreach id=113 at 2011-05-18T16:06:43
+  while page=1 at 2011-05-18T16:06:43
+    user_timeline start at 2011-05-18T16:06:43
+    timeline update_or_new start at 2011-05-18T16:06:44
+    match start at 2011-05-18T16:06:44
+  while page=2 at 2011-05-18T16:06:44
+    user_timeline start at 2011-05-18T16:06:44
+check_tweet start at 2011-05-18T16:06:45
+2011-05-18 16:06:45 @Kota_Kota_Bot:エンドピンでぶっさすぞゴラァ
+foreach id=112 at 2011-05-18T16:06:45
+  while page=1 at 2011-05-18T16:06:45
+    user_timeline start at 2011-05-18T16:06:45
+    timeline update_or_new start at 2011-05-18T16:06:46
+    match start at 2011-05-18T16:06:46
+  while page=2 at 2011-05-18T16:06:46
+    user_timeline start at 2011-05-18T16:06:46
+check_tweet start at 2011-05-18T16:06:47
+foreach id=116 at 2011-05-18T16:06:47
+  while page=1 at 2011-05-18T16:06:47
+    user_timeline start at 2011-05-18T16:06:47
+check_tweet start at 2011-05-18T16:06:47
+foreach id=114 at 2011-05-18T16:06:47
+  while page=1 at 2011-05-18T16:06:47
+    user_timeline start at 2011-05-18T16:06:47
+    timeline update_or_new start at 2011-05-18T16:06:48
+    match start at 2011-05-18T16:06:48
+  while page=2 at 2011-05-18T16:06:48
+    user_timeline start at 2011-05-18T16:06:48
+check_tweet start at 2011-05-18T16:06:49
+foreach id=115 at 2011-05-18T16:06:49
+  while page=1 at 2011-05-18T16:06:49
+    user_timeline start at 2011-05-18T16:06:49
+check_tweet start at 2011-05-18T16:06:49
+foreach id=117 at 2011-05-18T16:06:49
+  while page=1 at 2011-05-18T16:06:49
+    user_timeline start at 2011-05-18T16:06:49
+check_tweet start at 2011-05-18T16:06:50
+foreach id=120 at 2011-05-18T16:06:50
+  while page=1 at 2011-05-18T16:06:50
+    user_timeline start at 2011-05-18T16:06:50
+check_tweet start at 2011-05-18T16:06:50
+foreach id=125 at 2011-05-18T16:06:50
+  while page=1 at 2011-05-18T16:06:51
+    user_timeline start at 2011-05-18T16:06:51
+    timeline update_or_new start at 2011-05-18T16:06:51
+    match start at 2011-05-18T16:06:51
+  while page=2 at 2011-05-18T16:06:51
+    user_timeline start at 2011-05-18T16:06:51
+check_tweet start at 2011-05-18T16:06:52
+foreach id=119 at 2011-05-18T16:06:52
+  while page=1 at 2011-05-18T16:06:52
+    user_timeline start at 2011-05-18T16:06:52
+check_tweet start at 2011-05-18T16:06:52
+foreach id=121 at 2011-05-18T16:06:52
+  while page=1 at 2011-05-18T16:06:52
+    user_timeline start at 2011-05-18T16:06:52
+check_tweet start at 2011-05-18T16:06:53
+foreach id=122 at 2011-05-18T16:06:53
+  while page=1 at 2011-05-18T16:06:53
+    user_timeline start at 2011-05-18T16:06:53
+    timeline update_or_new start at 2011-05-18T16:06:54
+    match start at 2011-05-18T16:06:54
+  while page=2 at 2011-05-18T16:06:54
+    user_timeline start at 2011-05-18T16:06:54
+check_tweet start at 2011-05-18T16:06:54
+foreach id=123 at 2011-05-18T16:06:54
+  while page=1 at 2011-05-18T16:06:54
+    user_timeline start at 2011-05-18T16:06:54
+check_tweet start at 2011-05-18T16:06:55
+foreach id=124 at 2011-05-18T16:06:55
+  while page=1 at 2011-05-18T16:06:55
+    user_timeline start at 2011-05-18T16:06:55
+check_tweet start at 2011-05-18T16:06:55
+foreach id=126 at 2011-05-18T16:06:55
+  while page=1 at 2011-05-18T16:06:55
+    user_timeline start at 2011-05-18T16:06:55
+    timeline update_or_new start at 2011-05-18T16:06:56
+    match start at 2011-05-18T16:06:56
+  while page=2 at 2011-05-18T16:06:56
+    user_timeline start at 2011-05-18T16:06:56
+check_tweet start at 2011-05-18T16:06:56
+foreach id=127 at 2011-05-18T16:06:56
+  while page=1 at 2011-05-18T16:06:57
+    user_timeline start at 2011-05-18T16:06:57
+    timeline update_or_new start at 2011-05-18T16:06:57
+    match start at 2011-05-18T16:06:57
+  while page=2 at 2011-05-18T16:06:57
+    user_timeline start at 2011-05-18T16:06:57
+check_tweet start at 2011-05-18T16:06:58
+foreach id=128 at 2011-05-18T16:06:58
+  while page=1 at 2011-05-18T16:06:58
+    user_timeline start at 2011-05-18T16:06:58
+    timeline update_or_new start at 2011-05-18T16:06:58
+    match start at 2011-05-18T16:06:58
+  while page=2 at 2011-05-18T16:06:58
+    user_timeline start at 2011-05-18T16:06:58
+check_tweet start at 2011-05-18T16:06:59
+foreach id=129 at 2011-05-18T16:06:59
+  while page=1 at 2011-05-18T16:06:59
+    user_timeline start at 2011-05-18T16:06:59
+    timeline update_or_new start at 2011-05-18T16:07:00
+    match start at 2011-05-18T16:07:00
+  while page=2 at 2011-05-18T16:07:00
+    user_timeline start at 2011-05-18T16:07:00
+check_tweet start at 2011-05-18T16:07:00
+foreach id=134 at 2011-05-18T16:07:00
+  while page=1 at 2011-05-18T16:07:00
+    user_timeline start at 2011-05-18T16:07:00
+check_tweet start at 2011-05-18T16:07:01
+foreach id=131 at 2011-05-18T16:07:01
+  while page=1 at 2011-05-18T16:07:01
+    user_timeline start at 2011-05-18T16:07:01
+    timeline update_or_new start at 2011-05-18T16:07:01
+    match start at 2011-05-18T16:07:01
+  while page=2 at 2011-05-18T16:07:01
+    user_timeline start at 2011-05-18T16:07:01
+check_tweet start at 2011-05-18T16:07:02
+foreach id=132 at 2011-05-18T16:07:02
+  while page=1 at 2011-05-18T16:07:02
+    user_timeline start at 2011-05-18T16:07:02
+    timeline update_or_new start at 2011-05-18T16:07:03
+    match start at 2011-05-18T16:07:03
+  while page=2 at 2011-05-18T16:07:03
+    user_timeline start at 2011-05-18T16:07:03
+check_tweet start at 2011-05-18T16:07:03
+foreach id=133 at 2011-05-18T16:07:03
+  while page=1 at 2011-05-18T16:07:03
+    user_timeline start at 2011-05-18T16:07:03
+check_tweet start at 2011-05-18T16:07:04
+foreach id=135 at 2011-05-18T16:07:04
+  while page=1 at 2011-05-18T16:07:04
+    user_timeline start at 2011-05-18T16:07:04
+check_tweet start at 2011-05-18T16:07:05
+foreach id=136 at 2011-05-18T16:07:05
+  while page=1 at 2011-05-18T16:07:05
+    user_timeline start at 2011-05-18T16:07:05
+check_tweet start at 2011-05-18T16:07:05
+foreach id=137 at 2011-05-18T16:07:05
+  while page=1 at 2011-05-18T16:07:06
+    user_timeline start at 2011-05-18T16:07:06
+check_tweet start at 2011-05-18T16:07:06
+foreach id=138 at 2011-05-18T16:07:06
+  while page=1 at 2011-05-18T16:07:06
+    user_timeline start at 2011-05-18T16:07:06
+check_tweet start at 2011-05-18T16:07:07
+foreach id=139 at 2011-05-18T16:07:07
+  while page=1 at 2011-05-18T16:07:07
+    user_timeline start at 2011-05-18T16:07:07
+check_tweet start at 2011-05-18T16:07:08
+foreach id=140 at 2011-05-18T16:07:08
+  while page=1 at 2011-05-18T16:07:08
+    user_timeline start at 2011-05-18T16:07:08
+check_tweet start at 2011-05-18T16:07:08
+foreach id=141 at 2011-05-18T16:07:08
+  while page=1 at 2011-05-18T16:07:08
+    user_timeline start at 2011-05-18T16:07:08
+check_tweet start at 2011-05-18T16:07:09
+foreach id=142 at 2011-05-18T16:07:09
+  while page=1 at 2011-05-18T16:07:09
+    user_timeline start at 2011-05-18T16:07:09
+check_tweet start at 2011-05-18T16:07:09
+foreach id=143 at 2011-05-18T16:07:09
+  while page=1 at 2011-05-18T16:07:09
+    user_timeline start at 2011-05-18T16:07:09
+check_tweet start at 2011-05-18T16:07:10
+foreach id=144 at 2011-05-18T16:07:10
+  while page=1 at 2011-05-18T16:07:10
+    user_timeline start at 2011-05-18T16:07:10
+check_tweet start at 2011-05-18T16:07:11
+foreach id=145 at 2011-05-18T16:07:11
+  while page=1 at 2011-05-18T16:07:11
+    user_timeline start at 2011-05-18T16:07:11
+check_tweet start at 2011-05-18T16:07:11
+foreach id=146 at 2011-05-18T16:07:11
+  while page=1 at 2011-05-18T16:07:11
+    user_timeline start at 2011-05-18T16:07:11
+check_tweet start at 2011-05-18T16:07:12
+foreach id=147 at 2011-05-18T16:07:12
+  while page=1 at 2011-05-18T16:07:12
+    user_timeline start at 2011-05-18T16:07:12
+check_tweet start at 2011-05-18T16:07:13
+foreach id=148 at 2011-05-18T16:07:13
+  while page=1 at 2011-05-18T16:07:13
+    user_timeline start at 2011-05-18T16:07:13
+    timeline update_or_new start at 2011-05-18T16:07:13
+    match start at 2011-05-18T16:07:13
+  while page=2 at 2011-05-18T16:07:13
+    user_timeline start at 2011-05-18T16:07:13
+check_tweet start at 2011-05-18T16:07:14
+foreach id=149 at 2011-05-18T16:07:14
+  while page=1 at 2011-05-18T16:07:14
+    user_timeline start at 2011-05-18T16:07:14
+check_tweet start at 2011-05-18T16:07:15
+foreach id=150 at 2011-05-18T16:07:15
+  while page=1 at 2011-05-18T16:07:15
+    user_timeline start at 2011-05-18T16:07:15
+    timeline update_or_new start at 2011-05-18T16:07:15
+    match start at 2011-05-18T16:07:15
+  while page=2 at 2011-05-18T16:07:15
+    user_timeline start at 2011-05-18T16:07:15
+check_tweet start at 2011-05-18T16:07:16
+foreach id=151 at 2011-05-18T16:07:16
+  while page=1 at 2011-05-18T16:07:16
+    user_timeline start at 2011-05-18T16:07:16
+check_tweet start at 2011-05-18T16:07:16
+foreach id=152 at 2011-05-18T16:07:16
+  while page=1 at 2011-05-18T16:07:16
+    user_timeline start at 2011-05-18T16:07:17
+check_tweet start at 2011-05-18T16:07:17
+foreach id=153 at 2011-05-18T16:07:17
+  while page=1 at 2011-05-18T16:07:17
+    user_timeline start at 2011-05-18T16:07:17
+check_tweet start at 2011-05-18T16:07:18
+foreach id=154 at 2011-05-18T16:07:18
+  while page=1 at 2011-05-18T16:07:18
+    user_timeline start at 2011-05-18T16:07:18
+check_tweet start at 2011-05-18T16:07:18
+foreach id=155 at 2011-05-18T16:07:18
+  while page=1 at 2011-05-18T16:07:18
+    user_timeline start at 2011-05-18T16:07:18
+    timeline update_or_new start at 2011-05-18T16:07:19
+    match start at 2011-05-18T16:07:19
+  while page=2 at 2011-05-18T16:07:19
+    user_timeline start at 2011-05-18T16:07:19
+check_tweet start at 2011-05-18T16:07:20
+foreach id=156 at 2011-05-18T16:07:20
+  while page=1 at 2011-05-18T16:07:20
+    user_timeline start at 2011-05-18T16:07:20
+check_tweet start at 2011-05-18T16:07:20
+foreach id=157 at 2011-05-18T16:07:20
+  while page=1 at 2011-05-18T16:07:21
+    user_timeline start at 2011-05-18T16:07:21
+check_tweet start at 2011-05-18T16:07:21
+foreach id=158 at 2011-05-18T16:07:21
+  while page=1 at 2011-05-18T16:07:21
+    user_timeline start at 2011-05-18T16:07:21
+check_tweet start at 2011-05-18T16:07:22
+foreach id=159 at 2011-05-18T16:07:22
+  while page=1 at 2011-05-18T16:07:22
+    user_timeline start at 2011-05-18T16:07:22
+check_tweet start at 2011-05-18T16:07:23
+foreach id=160 at 2011-05-18T16:07:23
+  while page=1 at 2011-05-18T16:07:23
+    user_timeline start at 2011-05-18T16:07:23
+check_tweet start at 2011-05-18T16:07:23
+foreach id=161 at 2011-05-18T16:07:23
+  while page=1 at 2011-05-18T16:07:24
+    user_timeline start at 2011-05-18T16:07:24
+check_tweet start at 2011-05-18T16:07:24
+foreach id=162 at 2011-05-18T16:07:24
+  while page=1 at 2011-05-18T16:07:24
+    user_timeline start at 2011-05-18T16:07:24
+    timeline update_or_new start at 2011-05-18T16:07:25
+    match start at 2011-05-18T16:07:25
+  while page=2 at 2011-05-18T16:07:25
+    user_timeline start at 2011-05-18T16:07:25
+check_tweet start at 2011-05-18T16:07:25
+foreach id=166 at 2011-05-18T16:07:25
+  while page=1 at 2011-05-18T16:07:25
+    user_timeline start at 2011-05-18T16:07:25
+check_tweet start at 2011-05-18T16:07:26
+foreach id=167 at 2011-05-18T16:07:26
+  while page=1 at 2011-05-18T16:07:26
+    user_timeline start at 2011-05-18T16:07:26
+    timeline update_or_new start at 2011-05-18T16:07:27
+    match start at 2011-05-18T16:07:27
+  while page=2 at 2011-05-18T16:07:27
+    user_timeline start at 2011-05-18T16:07:27
+check_tweet start at 2011-05-18T16:07:27
+foreach id=168 at 2011-05-18T16:07:27
+  while page=1 at 2011-05-18T16:07:27
+    user_timeline start at 2011-05-18T16:07:27
+check_tweet start at 2011-05-18T16:07:28
+foreach id=169 at 2011-05-18T16:07:28
+  while page=1 at 2011-05-18T16:07:28
+    user_timeline start at 2011-05-18T16:07:28
+check_tweet start at 2011-05-18T16:07:29
+foreach id=170 at 2011-05-18T16:07:29
+  while page=1 at 2011-05-18T16:07:29
+    user_timeline start at 2011-05-18T16:07:29
+check_tweet start at 2011-05-18T16:07:30
+foreach id=172 at 2011-05-18T16:07:30
+  while page=1 at 2011-05-18T16:07:30
+    user_timeline start at 2011-05-18T16:07:30
+check_tweet start at 2011-05-18T16:07:30
+foreach id=173 at 2011-05-18T16:07:30
+  while page=1 at 2011-05-18T16:07:30
+    user_timeline start at 2011-05-18T16:07:30
+    timeline update_or_new start at 2011-05-18T16:07:31
+    match start at 2011-05-18T16:07:31
+  while page=2 at 2011-05-18T16:07:31
+    user_timeline start at 2011-05-18T16:07:31
+check_tweet start at 2011-05-18T16:07:32
+foreach id=174 at 2011-05-18T16:07:32
+  while page=1 at 2011-05-18T16:07:32
+    user_timeline start at 2011-05-18T16:07:32
+check_tweet start at 2011-05-18T16:07:32
+foreach id=175 at 2011-05-18T16:07:32
+  while page=1 at 2011-05-18T16:07:32
+    user_timeline start at 2011-05-18T16:07:32
+check_tweet start at 2011-05-18T16:07:33
+foreach id=177 at 2011-05-18T16:07:33
+  while page=1 at 2011-05-18T16:07:33
+    user_timeline start at 2011-05-18T16:07:33
+check_tweet start at 2011-05-18T16:07:34
+foreach id=176 at 2011-05-18T16:07:34
+  while page=1 at 2011-05-18T16:07:34
+    user_timeline start at 2011-05-18T16:07:34
+check_tweet start at 2011-05-18T16:07:35
+foreach id=180 at 2011-05-18T16:07:35
+  while page=1 at 2011-05-18T16:07:35
+    user_timeline start at 2011-05-18T16:07:35
+    timeline update_or_new start at 2011-05-18T16:07:35
+    match start at 2011-05-18T16:07:35
+  while page=2 at 2011-05-18T16:07:35
+    user_timeline start at 2011-05-18T16:07:35
+check_tweet start at 2011-05-18T16:07:36
+foreach id=178 at 2011-05-18T16:07:36
+  while page=1 at 2011-05-18T16:07:36
+    user_timeline start at 2011-05-18T16:07:36
+check_tweet start at 2011-05-18T16:07:36
+foreach id=179 at 2011-05-18T16:07:36
+  while page=1 at 2011-05-18T16:07:36
+    user_timeline start at 2011-05-18T16:07:36
+    timeline update_or_new start at 2011-05-18T16:07:37
+    match start at 2011-05-18T16:07:37
+  while page=2 at 2011-05-18T16:07:37
+    user_timeline start at 2011-05-18T16:07:37
+check_tweet start at 2011-05-18T16:07:38
+foreach id=181 at 2011-05-18T16:07:38
+  while page=1 at 2011-05-18T16:07:38
+    user_timeline start at 2011-05-18T16:07:38
+    timeline update_or_new start at 2011-05-18T16:07:38
+    match start at 2011-05-18T16:07:38
+  while page=2 at 2011-05-18T16:07:38
+    user_timeline start at 2011-05-18T16:07:38
+check_tweet start at 2011-05-18T16:07:39
+foreach id=182 at 2011-05-18T16:07:39
+  while page=1 at 2011-05-18T16:07:39
+    user_timeline start at 2011-05-18T16:07:39
+    timeline update_or_new start at 2011-05-18T16:07:40
+    match start at 2011-05-18T16:07:40
+  while page=2 at 2011-05-18T16:07:40
+    user_timeline start at 2011-05-18T16:07:40
+check_tweet start at 2011-05-18T16:07:40
+foreach id=183 at 2011-05-18T16:07:40
+  while page=1 at 2011-05-18T16:07:40
+    user_timeline start at 2011-05-18T16:07:40
+    timeline update_or_new start at 2011-05-18T16:07:41
+    match start at 2011-05-18T16:07:41
+  while page=2 at 2011-05-18T16:07:41
+    user_timeline start at 2011-05-18T16:07:41
+check_tweet start at 2011-05-18T16:07:41
+foreach id=184 at 2011-05-18T16:07:41
+  while page=1 at 2011-05-18T16:07:42
+    user_timeline start at 2011-05-18T16:07:42
+check_tweet start at 2011-05-18T16:07:42
+foreach id=185 at 2011-05-18T16:07:42
+  while page=1 at 2011-05-18T16:07:42
+    user_timeline start at 2011-05-18T16:07:42
+check_tweet start at 2011-05-18T16:07:43
+foreach id=186 at 2011-05-18T16:07:43
+  while page=1 at 2011-05-18T16:07:43
+    user_timeline start at 2011-05-18T16:07:43
+check_tweet start at 2011-05-18T16:07:44
+foreach id=187 at 2011-05-18T16:07:44
+  while page=1 at 2011-05-18T16:07:44
+    user_timeline start at 2011-05-18T16:07:44
+check_tweet start at 2011-05-18T16:07:44
+foreach id=188 at 2011-05-18T16:07:44
+  while page=1 at 2011-05-18T16:07:44
+    user_timeline start at 2011-05-18T16:07:44
+check_tweet start at 2011-05-18T16:07:45
+foreach id=189 at 2011-05-18T16:07:45
+  while page=1 at 2011-05-18T16:07:45
+    user_timeline start at 2011-05-18T16:07:45
+check_tweet start at 2011-05-18T16:07:45
+foreach id=190 at 2011-05-18T16:07:45
+  while page=1 at 2011-05-18T16:07:45
+    user_timeline start at 2011-05-18T16:07:45
+check_tweet start at 2011-05-18T16:07:46
+foreach id=191 at 2011-05-18T16:07:46
+  while page=1 at 2011-05-18T16:07:46
+    user_timeline start at 2011-05-18T16:07:46
+check_tweet start at 2011-05-18T16:07:47
+foreach id=192 at 2011-05-18T16:07:47
+  while page=1 at 2011-05-18T16:07:47
+    user_timeline start at 2011-05-18T16:07:47
+check_tweet start at 2011-05-18T16:07:47
+foreach id=194 at 2011-05-18T16:07:47
+  while page=1 at 2011-05-18T16:07:47
+    user_timeline start at 2011-05-18T16:07:47
+check_tweet start at 2011-05-18T16:07:48
+foreach id=195 at 2011-05-18T16:07:48
+  while page=1 at 2011-05-18T16:07:48
+    user_timeline start at 2011-05-18T16:07:48
+check_tweet start at 2011-05-18T16:07:48
+foreach id=196 at 2011-05-18T16:07:48
+  while page=1 at 2011-05-18T16:07:48
+    user_timeline start at 2011-05-18T16:07:48
+check_tweet start at 2011-05-18T16:07:49
+foreach id=197 at 2011-05-18T16:07:49
+  while page=1 at 2011-05-18T16:07:49
+    user_timeline start at 2011-05-18T16:07:49
+check_tweet start at 2011-05-18T16:07:50
+foreach id=198 at 2011-05-18T16:07:50
+  while page=1 at 2011-05-18T16:07:50
+    user_timeline start at 2011-05-18T16:07:50
+check_tweet start at 2011-05-18T16:07:50
+foreach id=199 at 2011-05-18T16:07:50
+  while page=1 at 2011-05-18T16:07:50
+    user_timeline start at 2011-05-18T16:07:50
+check_tweet start at 2011-05-18T16:07:51
+foreach id=200 at 2011-05-18T16:07:51
+  while page=1 at 2011-05-18T16:07:51
+    user_timeline start at 2011-05-18T16:07:51
+check_tweet start at 2011-05-18T16:07:51
+foreach id=203 at 2011-05-18T16:07:51
+  while page=1 at 2011-05-18T16:07:51
+    user_timeline start at 2011-05-18T16:07:51
+check_tweet start at 2011-05-18T16:07:52
+foreach id=201 at 2011-05-18T16:07:52
+  while page=1 at 2011-05-18T16:07:52
+    user_timeline start at 2011-05-18T16:07:52
+check_tweet start at 2011-05-18T16:07:53
+foreach id=202 at 2011-05-18T16:07:53
+  while page=1 at 2011-05-18T16:07:53
+    user_timeline start at 2011-05-18T16:07:53
+check_tweet start at 2011-05-18T16:07:54
+foreach id=204 at 2011-05-18T16:07:54
+  while page=1 at 2011-05-18T16:07:54
+    user_timeline start at 2011-05-18T16:07:54
+    timeline update_or_new start at 2011-05-18T16:07:54
+    match start at 2011-05-18T16:07:54
+  while page=2 at 2011-05-18T16:07:54
+    user_timeline start at 2011-05-18T16:07:54
+check_tweet start at 2011-05-18T16:07:55
+foreach id=205 at 2011-05-18T16:07:55
+  while page=1 at 2011-05-18T16:07:55
+    user_timeline start at 2011-05-18T16:07:55
+check_tweet start at 2011-05-18T16:07:55
+foreach id=206 at 2011-05-18T16:07:55
+  while page=1 at 2011-05-18T16:07:55
+    user_timeline start at 2011-05-18T16:07:55
+check_tweet start at 2011-05-18T16:07:56
+foreach id=207 at 2011-05-18T16:07:56
+  while page=1 at 2011-05-18T16:07:56
+    user_timeline start at 2011-05-18T16:07:56
+check_tweet start at 2011-05-18T16:07:57
+foreach id=208 at 2011-05-18T16:07:57
+  while page=1 at 2011-05-18T16:07:57
+    user_timeline start at 2011-05-18T16:07:57
+check_tweet start at 2011-05-18T16:07:57
+foreach id=209 at 2011-05-18T16:07:57
+  while page=1 at 2011-05-18T16:07:57
+    user_timeline start at 2011-05-18T16:07:57
+check_tweet start at 2011-05-18T16:07:58
+foreach id=210 at 2011-05-18T16:07:58
+  while page=1 at 2011-05-18T16:07:58
+    user_timeline start at 2011-05-18T16:07:58
+    timeline update_or_new start at 2011-05-18T16:07:58
+    match start at 2011-05-18T16:07:58
+  while page=2 at 2011-05-18T16:07:58
+    user_timeline start at 2011-05-18T16:07:58
+check_tweet start at 2011-05-18T16:07:59
+foreach id=211 at 2011-05-18T16:07:59
+  while page=1 at 2011-05-18T16:07:59
+    user_timeline start at 2011-05-18T16:07:59
+    timeline update_or_new start at 2011-05-18T16:08:00
+    match start at 2011-05-18T16:08:00
+  while page=2 at 2011-05-18T16:08:00
+    user_timeline start at 2011-05-18T16:08:00
+check_tweet start at 2011-05-18T16:08:00
+foreach id=212 at 2011-05-18T16:08:00
+  while page=1 at 2011-05-18T16:08:00
+    user_timeline start at 2011-05-18T16:08:00
+    timeline update_or_new start at 2011-05-18T16:08:01
+    match start at 2011-05-18T16:08:01
+  while page=2 at 2011-05-18T16:08:01
+    user_timeline start at 2011-05-18T16:08:01
+check_tweet start at 2011-05-18T16:08:02
+foreach id=214 at 2011-05-18T16:08:02
+  while page=1 at 2011-05-18T16:08:02
+    user_timeline start at 2011-05-18T16:08:02
+check_tweet start at 2011-05-18T16:08:03
+foreach id=215 at 2011-05-18T16:08:03
+  while page=1 at 2011-05-18T16:08:03
+    user_timeline start at 2011-05-18T16:08:03
+check_tweet start at 2011-05-18T16:08:04
+foreach id=216 at 2011-05-18T16:08:04
+  while page=1 at 2011-05-18T16:08:04
+    user_timeline start at 2011-05-18T16:08:04
+check_tweet start at 2011-05-18T16:08:04
+foreach id=217 at 2011-05-18T16:08:04
+  while page=1 at 2011-05-18T16:08:04
+    user_timeline start at 2011-05-18T16:08:04
+check_tweet start at 2011-05-18T16:08:05
+foreach id=218 at 2011-05-18T16:08:05
+  while page=1 at 2011-05-18T16:08:05
+    user_timeline start at 2011-05-18T16:08:05
+check_tweet start at 2011-05-18T16:08:05
+foreach id=219 at 2011-05-18T16:08:05
+  while page=1 at 2011-05-18T16:08:05
+    user_timeline start at 2011-05-18T16:08:05
+check_tweet start at 2011-05-18T16:08:06
+foreach id=221 at 2011-05-18T16:08:06
+  while page=1 at 2011-05-18T16:08:06
+    user_timeline start at 2011-05-18T16:08:06
+check_tweet start at 2011-05-18T16:08:07
+foreach id=222 at 2011-05-18T16:08:07
+  while page=1 at 2011-05-18T16:08:07
+    user_timeline start at 2011-05-18T16:08:07
+check_tweet start at 2011-05-18T16:08:07
+foreach id=223 at 2011-05-18T16:08:07
+  while page=1 at 2011-05-18T16:08:07
+    user_timeline start at 2011-05-18T16:08:07
+check_tweet start at 2011-05-18T16:08:08
+foreach id=232 at 2011-05-18T16:08:08
+  while page=1 at 2011-05-18T16:08:08
+    user_timeline start at 2011-05-18T16:08:08
+check_tweet start at 2011-05-18T16:08:08
+foreach id=224 at 2011-05-18T16:08:08
+  while page=1 at 2011-05-18T16:08:08
+    user_timeline start at 2011-05-18T16:08:08
+check_tweet start at 2011-05-18T16:08:09
+foreach id=225 at 2011-05-18T16:08:09
+  while page=1 at 2011-05-18T16:08:09
+    user_timeline start at 2011-05-18T16:08:09
+check_tweet start at 2011-05-18T16:08:10
+foreach id=226 at 2011-05-18T16:08:10
+  while page=1 at 2011-05-18T16:08:10
+    user_timeline start at 2011-05-18T16:08:10
+check_tweet start at 2011-05-18T16:08:10
+foreach id=228 at 2011-05-18T16:08:10
+  while page=1 at 2011-05-18T16:08:10
+    user_timeline start at 2011-05-18T16:08:10
+check_tweet start at 2011-05-18T16:08:11
+foreach id=231 at 2011-05-18T16:08:11
+  while page=1 at 2011-05-18T16:08:11
+    user_timeline start at 2011-05-18T16:08:11
+check_tweet start at 2011-05-18T16:08:12
+foreach id=230 at 2011-05-18T16:08:12
+  while page=1 at 2011-05-18T16:08:12
+    user_timeline start at 2011-05-18T16:08:12
+check_tweet start at 2011-05-18T16:08:12
+foreach id=233 at 2011-05-18T16:08:12
+  while page=1 at 2011-05-18T16:08:12
+    user_timeline start at 2011-05-18T16:08:12
+check_tweet start at 2011-05-18T16:08:13
+foreach id=235 at 2011-05-18T16:08:13
+  while page=1 at 2011-05-18T16:08:13
+    user_timeline start at 2011-05-18T16:08:13
+check_tweet start at 2011-05-18T16:08:13
+foreach id=234 at 2011-05-18T16:08:13
+  while page=1 at 2011-05-18T16:08:13
+    user_timeline start at 2011-05-18T16:08:13
+check_tweet start at 2011-05-18T16:08:14
+foreach id=236 at 2011-05-18T16:08:14
+  while page=1 at 2011-05-18T16:08:14
+    user_timeline start at 2011-05-18T16:08:14
+check_tweet start at 2011-05-18T16:08:15
+foreach id=237 at 2011-05-18T16:08:15
+  while page=1 at 2011-05-18T16:08:15
+    user_timeline start at 2011-05-18T16:08:15
+check_tweet start at 2011-05-18T16:08:15
+foreach id=239 at 2011-05-18T16:08:15
+  while page=1 at 2011-05-18T16:08:15
+    user_timeline start at 2011-05-18T16:08:15
+check_tweet start at 2011-05-18T16:08:16
+foreach id=238 at 2011-05-18T16:08:16
+  while page=1 at 2011-05-18T16:08:16
+    user_timeline start at 2011-05-18T16:08:16
+    timeline update_or_new start at 2011-05-18T16:08:16
+    match start at 2011-05-18T16:08:17
+  while page=2 at 2011-05-18T16:08:17
+    user_timeline start at 2011-05-18T16:08:17
+check_tweet start at 2011-05-18T16:08:17
+foreach id=240 at 2011-05-18T16:08:17
+  while page=1 at 2011-05-18T16:08:17
+    user_timeline start at 2011-05-18T16:08:17
+check_tweet start at 2011-05-18T16:08:18
+foreach id=241 at 2011-05-18T16:08:18
+  while page=1 at 2011-05-18T16:08:18
+    user_timeline start at 2011-05-18T16:08:18
+    timeline update_or_new start at 2011-05-18T16:08:18
+    match start at 2011-05-18T16:08:19
+  while page=2 at 2011-05-18T16:08:19
+    user_timeline start at 2011-05-18T16:08:19
+check_tweet start at 2011-05-18T16:08:19
+foreach id=242 at 2011-05-18T16:08:19
+  while page=1 at 2011-05-18T16:08:19
+    user_timeline start at 2011-05-18T16:08:19
+check_tweet start at 2011-05-18T16:08:20
+foreach id=245 at 2011-05-18T16:08:20
+  while page=1 at 2011-05-18T16:08:20
+    user_timeline start at 2011-05-18T16:08:20
+check_tweet start at 2011-05-18T16:08:21
+foreach id=244 at 2011-05-18T16:08:21
+  while page=1 at 2011-05-18T16:08:21
+    user_timeline start at 2011-05-18T16:08:21
+check_tweet start at 2011-05-18T16:08:21
+foreach id=246 at 2011-05-18T16:08:21
+  while page=1 at 2011-05-18T16:08:21
+    user_timeline start at 2011-05-18T16:08:21
+check_tweet start at 2011-05-18T16:08:22
+foreach id=248 at 2011-05-18T16:08:22
+  while page=1 at 2011-05-18T16:08:22
+    user_timeline start at 2011-05-18T16:08:22
+check_tweet start at 2011-05-18T16:08:23
+foreach id=251 at 2011-05-18T16:08:23
+  while page=1 at 2011-05-18T16:08:23
+    user_timeline start at 2011-05-18T16:08:23
+check_tweet start at 2011-05-18T16:08:23
+foreach id=249 at 2011-05-18T16:08:23
+  while page=1 at 2011-05-18T16:08:23
+    user_timeline start at 2011-05-18T16:08:23
+check_tweet start at 2011-05-18T16:08:24
+foreach id=252 at 2011-05-18T16:08:24
+  while page=1 at 2011-05-18T16:08:24
+    user_timeline start at 2011-05-18T16:08:24
+check_tweet start at 2011-05-18T16:08:24
+foreach id=253 at 2011-05-18T16:08:24
+  while page=1 at 2011-05-18T16:08:24
+    user_timeline start at 2011-05-18T16:08:24
+check_tweet start at 2011-05-18T16:08:25
+foreach id=254 at 2011-05-18T16:08:25
+  while page=1 at 2011-05-18T16:08:25
+    user_timeline start at 2011-05-18T16:08:25
+check_tweet start at 2011-05-18T16:08:26
+foreach id=255 at 2011-05-18T16:08:26
+  while page=1 at 2011-05-18T16:08:26
+    user_timeline start at 2011-05-18T16:08:26
+check_tweet start at 2011-05-18T16:08:26
+foreach id=256 at 2011-05-18T16:08:26
+  while page=1 at 2011-05-18T16:08:26
+    user_timeline start at 2011-05-18T16:08:26
+    timeline update_or_new start at 2011-05-18T16:08:27
+    match start at 2011-05-18T16:08:27
+  while page=2 at 2011-05-18T16:08:27
+    user_timeline start at 2011-05-18T16:08:27
+check_tweet start at 2011-05-18T16:08:27
+foreach id=257 at 2011-05-18T16:08:27
+  while page=1 at 2011-05-18T16:08:27
+    user_timeline start at 2011-05-18T16:08:27
+check_tweet start at 2011-05-18T16:08:28
+foreach id=258 at 2011-05-18T16:08:28
+  while page=1 at 2011-05-18T16:08:28
+    user_timeline start at 2011-05-18T16:08:28
+check_tweet start at 2011-05-18T16:08:29
+foreach id=259 at 2011-05-18T16:08:29
+  while page=1 at 2011-05-18T16:08:29
+    user_timeline start at 2011-05-18T16:08:29
+check_tweet start at 2011-05-18T16:08:29
+foreach id=260 at 2011-05-18T16:08:30
+  while page=1 at 2011-05-18T16:08:30
+    user_timeline start at 2011-05-18T16:08:30
+check_tweet start at 2011-05-18T16:08:30
+foreach id=261 at 2011-05-18T16:08:30
+  while page=1 at 2011-05-18T16:08:30
+    user_timeline start at 2011-05-18T16:08:30
+check_tweet start at 2011-05-18T16:08:31
+foreach id=262 at 2011-05-18T16:08:31
+  while page=1 at 2011-05-18T16:08:31
+    user_timeline start at 2011-05-18T16:08:31
+check_tweet start at 2011-05-18T16:08:31
+foreach id=265 at 2011-05-18T16:08:31
+  while page=1 at 2011-05-18T16:08:31
+    user_timeline start at 2011-05-18T16:08:31
+check_tweet start at 2011-05-18T16:08:32
+foreach id=266 at 2011-05-18T16:08:32
+  while page=1 at 2011-05-18T16:08:32
+    user_timeline start at 2011-05-18T16:08:32
+check_tweet start at 2011-05-18T16:08:33
+foreach id=267 at 2011-05-18T16:08:33
+  while page=1 at 2011-05-18T16:08:33
+    user_timeline start at 2011-05-18T16:08:33
+check_tweet start at 2011-05-18T16:08:34
+foreach id=268 at 2011-05-18T16:08:34
+  while page=1 at 2011-05-18T16:08:34
+    user_timeline start at 2011-05-18T16:08:34
+check_tweet start at 2011-05-18T16:08:34
+foreach id=269 at 2011-05-18T16:08:34
+  while page=1 at 2011-05-18T16:08:34
+    user_timeline start at 2011-05-18T16:08:34
+check_tweet start at 2011-05-18T16:08:35
+foreach id=271 at 2011-05-18T16:08:35
+  while page=1 at 2011-05-18T16:08:35
+    user_timeline start at 2011-05-18T16:08:35
+check_tweet start at 2011-05-18T16:08:35
+foreach id=274 at 2011-05-18T16:08:35
+  while page=1 at 2011-05-18T16:08:35
+    user_timeline start at 2011-05-18T16:08:35
+check_tweet start at 2011-05-18T16:08:36
+foreach id=272 at 2011-05-18T16:08:36
+  while page=1 at 2011-05-18T16:08:36
+    user_timeline start at 2011-05-18T16:08:36
+check_tweet start at 2011-05-18T16:08:37
+foreach id=273 at 2011-05-18T16:08:37
+  while page=1 at 2011-05-18T16:08:37
+    user_timeline start at 2011-05-18T16:08:37
+check_tweet start at 2011-05-18T16:08:37
+foreach id=275 at 2011-05-18T16:08:37
+  while page=1 at 2011-05-18T16:08:37
+    user_timeline start at 2011-05-18T16:08:37
+check_tweet start at 2011-05-18T16:08:38
+foreach id=276 at 2011-05-18T16:08:38
+  while page=1 at 2011-05-18T16:08:38
+    user_timeline start at 2011-05-18T16:08:38
+check_tweet start at 2011-05-18T16:08:39
+foreach id=278 at 2011-05-18T16:08:39
+  while page=1 at 2011-05-18T16:08:39
+    user_timeline start at 2011-05-18T16:08:39
+check_tweet start at 2011-05-18T16:08:39
+foreach id=277 at 2011-05-18T16:08:39
+  while page=1 at 2011-05-18T16:08:39
+    user_timeline start at 2011-05-18T16:08:39
+check_tweet start at 2011-05-18T16:08:40
+foreach id=279 at 2011-05-18T16:08:40
+  while page=1 at 2011-05-18T16:08:40
+    user_timeline start at 2011-05-18T16:08:40
+check_tweet start at 2011-05-18T16:08:41
+foreach id=280 at 2011-05-18T16:08:41
+  while page=1 at 2011-05-18T16:08:41
+    user_timeline start at 2011-05-18T16:08:41
+check_tweet start at 2011-05-18T16:08:41
+foreach id=282 at 2011-05-18T16:08:41
+  while page=1 at 2011-05-18T16:08:41
+    user_timeline start at 2011-05-18T16:08:41
+check_tweet start at 2011-05-18T16:08:42
+foreach id=281 at 2011-05-18T16:08:42
+  while page=1 at 2011-05-18T16:08:42
+    user_timeline start at 2011-05-18T16:08:42
+check_tweet start at 2011-05-18T16:08:43
+foreach id=283 at 2011-05-18T16:08:43
+  while page=1 at 2011-05-18T16:08:43
+    user_timeline start at 2011-05-18T16:08:43
+check_tweet start at 2011-05-18T16:08:43
+foreach id=284 at 2011-05-18T16:08:43
+  while page=1 at 2011-05-18T16:08:43
+    user_timeline start at 2011-05-18T16:08:43
+check_tweet start at 2011-05-18T16:08:44
+foreach id=286 at 2011-05-18T16:08:44
+  while page=1 at 2011-05-18T16:08:44
+    user_timeline start at 2011-05-18T16:08:44
+check_tweet start at 2011-05-18T16:08:44
+foreach id=285 at 2011-05-18T16:08:44
+  while page=1 at 2011-05-18T16:08:44
+    user_timeline start at 2011-05-18T16:08:44
+check_tweet start at 2011-05-18T16:08:45
+foreach id=287 at 2011-05-18T16:08:45
+  while page=1 at 2011-05-18T16:08:45
+    user_timeline start at 2011-05-18T16:08:45
+check_tweet start at 2011-05-18T16:08:46
+foreach id=288 at 2011-05-18T16:08:46
+  while page=1 at 2011-05-18T16:08:46
+    user_timeline start at 2011-05-18T16:08:46
+check_tweet start at 2011-05-18T16:08:46
+foreach id=289 at 2011-05-18T16:08:46
+  while page=1 at 2011-05-18T16:08:46
+    user_timeline start at 2011-05-18T16:08:46
+check_tweet start at 2011-05-18T16:08:47
+foreach id=290 at 2011-05-18T16:08:47
+  while page=1 at 2011-05-18T16:08:47
+    user_timeline start at 2011-05-18T16:08:47
+check_tweet start at 2011-05-18T16:08:48
+foreach id=291 at 2011-05-18T16:08:48
+  while page=1 at 2011-05-18T16:08:48
+    user_timeline start at 2011-05-18T16:08:48
+check_tweet start at 2011-05-18T16:08:48
+foreach id=292 at 2011-05-18T16:08:48
+  while page=1 at 2011-05-18T16:08:48
+    user_timeline start at 2011-05-18T16:08:48
+check_tweet start at 2011-05-18T16:08:49
+foreach id=293 at 2011-05-18T16:08:49
+  while page=1 at 2011-05-18T16:08:49
+    user_timeline start at 2011-05-18T16:08:49
+check_tweet start at 2011-05-18T16:08:50
+foreach id=295 at 2011-05-18T16:08:50
+  while page=1 at 2011-05-18T16:08:50
+    user_timeline start at 2011-05-18T16:08:50
+    timeline update_or_new start at 2011-05-18T16:08:50
+    match start at 2011-05-18T16:08:50
+  while page=2 at 2011-05-18T16:08:50
+    user_timeline start at 2011-05-18T16:08:50
+check_tweet start at 2011-05-18T16:08:51
+foreach id=294 at 2011-05-18T16:08:51
+  while page=1 at 2011-05-18T16:08:51
+    user_timeline start at 2011-05-18T16:08:51
+check_tweet start at 2011-05-18T16:08:52
+foreach id=296 at 2011-05-18T16:08:52
+  while page=1 at 2011-05-18T16:08:52
+    user_timeline start at 2011-05-18T16:08:52
+    timeline update_or_new start at 2011-05-18T16:08:52
+    match start at 2011-05-18T16:08:52
+  while page=2 at 2011-05-18T16:08:52
+    user_timeline start at 2011-05-18T16:08:52
+check_tweet start at 2011-05-18T16:08:53
+foreach id=297 at 2011-05-18T16:08:53
+  while page=1 at 2011-05-18T16:08:53
+    user_timeline start at 2011-05-18T16:08:53
+    timeline update_or_new start at 2011-05-18T16:08:53
+    match start at 2011-05-18T16:08:53
+  while page=2 at 2011-05-18T16:08:53
+    user_timeline start at 2011-05-18T16:08:53
+check_tweet start at 2011-05-18T16:08:54
+foreach id=298 at 2011-05-18T16:08:54
+  while page=1 at 2011-05-18T16:08:54
+    user_timeline start at 2011-05-18T16:08:54
+check_tweet start at 2011-05-18T16:08:55
+foreach id=299 at 2011-05-18T16:08:55
+  while page=1 at 2011-05-18T16:08:55
+    user_timeline start at 2011-05-18T16:08:55
+check_tweet start at 2011-05-18T16:08:55
+foreach id=302 at 2011-05-18T16:08:55
+  while page=1 at 2011-05-18T16:08:55
+    user_timeline start at 2011-05-18T16:08:55
+check_tweet start at 2011-05-18T16:08:56
+foreach id=301 at 2011-05-18T16:08:56
+  while page=1 at 2011-05-18T16:08:56
+    user_timeline start at 2011-05-18T16:08:56
+check_tweet start at 2011-05-18T16:08:56
+foreach id=303 at 2011-05-18T16:08:56
+  while page=1 at 2011-05-18T16:08:57
+    user_timeline start at 2011-05-18T16:08:57
+check_tweet start at 2011-05-18T16:08:57
+foreach id=306 at 2011-05-18T16:08:57
+  while page=1 at 2011-05-18T16:08:57
+    user_timeline start at 2011-05-18T16:08:57
+check_tweet start at 2011-05-18T16:08:58
+foreach id=304 at 2011-05-18T16:08:58
+  while page=1 at 2011-05-18T16:08:58
+    user_timeline start at 2011-05-18T16:08:58
+check_tweet start at 2011-05-18T16:08:58
+foreach id=307 at 2011-05-18T16:08:58
+  while page=1 at 2011-05-18T16:08:58
+    user_timeline start at 2011-05-18T16:08:58
+    timeline update_or_new start at 2011-05-18T16:08:59
+    match start at 2011-05-18T16:08:59
+  while page=2 at 2011-05-18T16:08:59
+    user_timeline start at 2011-05-18T16:08:59
+check_tweet start at 2011-05-18T16:09:00
+foreach id=308 at 2011-05-18T16:09:00
+  while page=1 at 2011-05-18T16:09:00
+    user_timeline start at 2011-05-18T16:09:00
+check_tweet start at 2011-05-18T16:09:00
+foreach id=309 at 2011-05-18T16:09:00
+  while page=1 at 2011-05-18T16:09:00
+    user_timeline start at 2011-05-18T16:09:00
+check_tweet start at 2011-05-18T16:09:01
+foreach id=311 at 2011-05-18T16:09:01
+  while page=1 at 2011-05-18T16:09:01
+    user_timeline start at 2011-05-18T16:09:01
+check_tweet start at 2011-05-18T16:09:01
+foreach id=314 at 2011-05-18T16:09:01
+  while page=1 at 2011-05-18T16:09:01
+    user_timeline start at 2011-05-18T16:09:01
+check_tweet start at 2011-05-18T16:09:02
+foreach id=313 at 2011-05-18T16:09:02
+  while page=1 at 2011-05-18T16:09:02
+    user_timeline start at 2011-05-18T16:09:02
+check_tweet start at 2011-05-18T16:09:03
+foreach id=315 at 2011-05-18T16:09:03
+  while page=1 at 2011-05-18T16:09:03
+    user_timeline start at 2011-05-18T16:09:03
+check_tweet start at 2011-05-18T16:09:03
+foreach id=316 at 2011-05-18T16:09:03
+  while page=1 at 2011-05-18T16:09:03
+    user_timeline start at 2011-05-18T16:09:03
+check_tweet start at 2011-05-18T16:09:04
+foreach id=317 at 2011-05-18T16:09:04
+  while page=1 at 2011-05-18T16:09:04
+    user_timeline start at 2011-05-18T16:09:04
+check_tweet start at 2011-05-18T16:09:04
+foreach id=318 at 2011-05-18T16:09:04
+  while page=1 at 2011-05-18T16:09:04
+    user_timeline start at 2011-05-18T16:09:05
+check_tweet start at 2011-05-18T16:09:05
+foreach id=319 at 2011-05-18T16:09:05
+  while page=1 at 2011-05-18T16:09:05
+    user_timeline start at 2011-05-18T16:09:05
+check_tweet start at 2011-05-18T16:09:06
+foreach id=320 at 2011-05-18T16:09:06
+  while page=1 at 2011-05-18T16:09:06
+    user_timeline start at 2011-05-18T16:09:06
+check_tweet start at 2011-05-18T16:09:06
+foreach id=321 at 2011-05-18T16:09:06
+  while page=1 at 2011-05-18T16:09:06
+    user_timeline start at 2011-05-18T16:09:06
+check_tweet start at 2011-05-18T16:09:07
+foreach id=322 at 2011-05-18T16:09:07
+  while page=1 at 2011-05-18T16:09:07
+    user_timeline start at 2011-05-18T16:09:07
+check_tweet start at 2011-05-18T16:09:07
+foreach id=323 at 2011-05-18T16:09:07
+  while page=1 at 2011-05-18T16:09:08
+    user_timeline start at 2011-05-18T16:09:08
+check_tweet start at 2011-05-18T16:09:08
+foreach id=324 at 2011-05-18T16:09:08
+  while page=1 at 2011-05-18T16:09:08
+    user_timeline start at 2011-05-18T16:09:08
+check_tweet start at 2011-05-18T16:09:09
+foreach id=325 at 2011-05-18T16:09:09
+  while page=1 at 2011-05-18T16:09:09
+    user_timeline start at 2011-05-18T16:09:09
+check_tweet start at 2011-05-18T16:09:09
+foreach id=326 at 2011-05-18T16:09:09
+  while page=1 at 2011-05-18T16:09:10
+    user_timeline start at 2011-05-18T16:09:10
+check_tweet start at 2011-05-18T16:09:10
+foreach id=327 at 2011-05-18T16:09:10
+  while page=1 at 2011-05-18T16:09:10
+    user_timeline start at 2011-05-18T16:09:10
+check_tweet start at 2011-05-18T16:09:11
+foreach id=328 at 2011-05-18T16:09:11
+  while page=1 at 2011-05-18T16:09:11
+    user_timeline start at 2011-05-18T16:09:11
+check_tweet start at 2011-05-18T16:09:12
+timeline.pl end at 2011-05-18T16:09:12

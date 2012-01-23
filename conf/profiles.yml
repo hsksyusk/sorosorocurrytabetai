@@ -1,0 +1,10 @@
+setting:
+  period:
+    - NOT_BLANK
+    - ['BETWEEN', 1, 999]
+  keyword:
+    - NOT_BLANK
+    - ['JLENGTH', 0, 140]
+  message:
+    - NOT_BLANK
+    - ['JLENGTH', 0, 120]

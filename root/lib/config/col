@@ -1,0 +1,28 @@
+[% site.rgb = {
+     black  = '#000000'
+     white  = '#ffffff'
+     grey1  = '#46494c'
+     grey2  = '#c6c9cc'
+     grey3  = '#e3e6ea'
+     red    = '#CC4444'
+     green  = '#66AA66'
+     blue   = '#89b8df'
+     orange = '#f08900'
+     curry_base = '#be8701'
+     curry_right_vivid = '#dfae39'
+     curry_right_pastel = '#dfbb65'
+     curry_dark_vivid = '#7c5700'
+     curry_dark_pastel = '#8f6f24'
+   };
+
+   site.col = {
+      page    = site.rgb.white
+      text    = site.rgb.black
+      a       = site.rgb.black
+      head    = site.rgb.white
+      foot    = site.rgb.white
+      line    = site.rgb.black
+      message = site.rgb.black
+      error   = site.rgb.black
+   };
+-%]

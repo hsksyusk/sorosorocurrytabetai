@@ -1,0 +1,126 @@
+[% USE TimeDate %]
+[% PROCESS macro.tt %]
+
+<object ID="MediaPlayer1" width=176 height=144 classid="CLSID:22D6F312-B0F6-11D0-94AB-0080C74C7E95" CODEBASE="http://activex.microsoft.com/activex/controls/mplayer/en/nsmp2inf.cab#Version=6,4,5,715" standby="Loading MicrosoftR WindowsR Media Player components..." type="application/x-oleobject">
+<param NAME="AutoStart" VALUE="True">
+<param NAME="FileName" VALUE="http://www.simulradio.jp/asx/MinamisomaFM.asx">
+<param NAME="ShowControls" VALUE="true">
+<embed type="application/x-mplayer2" 
+pluginspage="http://www.microsoft.com/Windows/MediaPlayer/" SRC="http://www.simulradio.jp/asx/MinamisomaFM.asx" width=176 height=144 autostart=1 showcontrols=1>
+</embed>
+</object>
+
+
+<div id="top_page" class="clearfix">
+	<img id="logo" src="/sorosorocurrytabetai/root/static/images/[% l('logo_img') %]" alt="[% l('site_title') %]" />
+	<br/>
+	<img id="about" src="/sorosorocurrytabetai/root/static/images/[% l('about_img') %]" alt="[% l('about_alt') %]" />
+	<br/>
+	<p><a href="[% base %]setting"><img id="button_login" src="/sorosorocurrytabetai/root/static/images/[% l('button_login_img') %]" alt="[% l('button_login_alt') %]" /></a></p>
+</div>
+
+
+
+
+
+
+
+
+<div id="setting_page" class="clearfix">
+	<div class="header_title">
+		<a href="/sorosorocurrytabetai/"><img src="/sorosorocurrytabetai/root/static/images/[% l('button_logo_img') %]" alt="[% l('site_title') %]" /></a>
+	</div>
+	<div class="hr">
+		<img src="/sorosorocurrytabetai/root/static/images/[% l('line_top_img') %]" alt="[% l('line_alt') %]" />
+	</div>
+	[% IF errorflag %]
+	<div class="message">
+		<ul>
+		[% FOREACH message = messages %]
+			<li>[% l(message) %]</li>
+		[% END %]
+		</ul>
+	</div>
+	[% END %]
+
+	<div id="regist_area">
+		<form method="post">
+			<input name="regist" type="hidden" value="1"/>
+		[% IF c.language == "ja" %]
+			<input class="input_period  [% IF !registerrorflag %]toggleval[% END %]" name="period"  type="text" value="[% IF registerrorflag %][% fillform.period %][% ELSE %][% l('form_default_days') %][% END %]" />
+			<img src="/sorosorocurrytabetai/root/static/images/[% l('edit_nichikan_img') %]" alt="[% l('edit_nichikan_alt') %]" />
+			<input class="input_keyword [% IF !registerrorflag %]toggleval[% END %]" name="keyword" type="text" value="[% IF registerrorflag %][% fillform.keyword %][% ELSE %][% l('form_default_keyword') %][% END %]" />
+			<img src="/sorosorocurrytabetai/root/static/images/[% l('edit_hatsugen_img') %]" alt="[% l('edit_hatsugen_alt') %]" />
+			<input class="input_message [% IF !registerrorflag %]toggleval[% END %]" name="message" type="text" value="[% IF registerrorflag %][% fillform.message %][% ELSE %][% l('form_default_message') %][% END %]" />
+			<br/>
+			<img class="toiu" src="/sorosorocurrytabetai/root/static/images/[% l('edit_iu_img') %]" alt="[% l('edit_iu_alt') %]" />
+		[% ELSIF c.language == "en" %]
+			<img src="/sorosorocurrytabetai/root/static/images/[% l('edit_tweets_img') %]" alt="[% l('edit_tweets_alt') %]" />
+			<input class="input_message [% IF !registerrorflag %]toggleval[% END %]" name="message" type="text" value="[% IF registerrorflag %][% fillform.message %][% ELSE %][% l('form_default_message') %][% END %]" />
+			<img src="/sorosorocurrytabetai/root/static/images/[% l('edit_ifyoudont_img') %]" alt="[% l('edit_ifyoudont_alt') %]" />
+			<input class="input_keyword [% IF !registerrorflag %]toggleval[% END %]" name="keyword" type="text" value="[% IF registerrorflag %][% fillform.keyword %][% ELSE %][% l('form_default_keyword') %][% END %]" />
+			<br />
+			<img src="/sorosorocurrytabetai/root/static/images/[% l('edit_for_img') %]" alt="[% l('edit_for_alt') %]" />
+			<input class="input_period  [% IF !registerrorflag %]toggleval[% END %]" name="period"  type="text" value="[% IF registerrorflag %][% fillform.period %][% ELSE %][% l('form_default_days') %][% END %]" />
+			<img src="/sorosorocurrytabetai/root/static/images/[% l('edit_days_img') %]" alt="[% l('edit_days_alt') %]" />
+		[% END %]
+			<input name="submit" class="button add"  type="image" src="/sorosorocurrytabetai/root/static/images/[% l('button_regist_img') %]" alt="[% l('button_regist_alt') %]" value="add" />
+		</form>
+	</div>
+
+[% FOREACH twit = twits %]
+	<div class="edit_area">
+		<form method="post" class="edit_form">
+			<input name="update" type="hidden" value="1" />
+			<input name="id" type="hidden" value="[% twit.id | html %]" />
+
+		[% IF c.language == "ja" %]
+			<input class="input_period"  name="period"  type="text" value="[% twit.period  | html %]" /><img src="/sorosorocurrytabetai/root/static/images/sorosorocurry_edit_nichikan.png" alt="日間、" />
+			<input class="input_keyword" name="keyword" type="text" value="[% twit.keyword | html %]" /><img src="/sorosorocurrytabetai/root/static/images/sorosorocurry_edit_hatsugen.png" alt="と発言しなかったら" />
+			<input class="input_message" name="message" type="text" value="[% twit.message | html %]" /><img src="/sorosorocurrytabetai/root/static/images/sorosorocurry_edit_iu.png" alt="と言う" />
+		[% ELSIF c.language == "en" %]
+			<img src="/sorosorocurrytabetai/root/static/images/[% l('edit_tweets_img') %]" alt="[% l('edit_tweets_alt') %]" />
+			<input class="input_message" name="message" type="text" value="[% twit.message | html %]" />
+			<img src="/sorosorocurrytabetai/root/static/images/[% l('edit_ifyoudont_img') %]" alt="[% l('edit_ifyoudont_alt') %]" />
+			<input class="input_keyword" name="keyword" type="text" value="[% twit.keyword | html %]" />
+			<img src="/sorosorocurrytabetai/root/static/images/[% l('edit_for_img') %]" alt="[% l('edit_for_alt') %]" />
+			<input class="input_period" name="period"  type="text" value="[% twit.period  | html %]" />
+			<img src="/sorosorocurrytabetai/root/static/images/[% l('edit_days_img') %]" alt="[% l('edit_days_alt') %]" />
+		[% END %]
+			<input name="submit" class="button"  type="image" src="/sorosorocurrytabetai/root/static/images/[% l('button_remove_img') %]" alt="[% l('button_remove_alt') %]" value="remove" />
+			<input name="submit" class="button"  type="image" src="/sorosorocurrytabetai/root/static/images/[% l('button_update_img') %]" alt="[% l('button_update_alt') %]" value="update" />
+		</form>
+
+	[% IF twit.twit_count == 99 %]
+		<form method="post">
+			<input name="moretwit" type="hidden" value="1" />
+			<input name="id" type="hidden" value="[% twit.id | html %]" />
+			（もう言いました）
+			<input type="submit" value="また言う" />
+		</form>
+	[% END %]
+
+	[% USE today = DateTime(now = 1, time_zone=>'Asia/Tokyo' ) %]
+	[% FOREACH search = twit.search_id %]
+		[% USE lastfind_date = DateTime( from_string => search.lastfind_date, pattern => '%Y-%m-%dT%H:%M:%S', time_zone => 'Asia/Tokyo') %]
+		[% dur = today - lastfind_date %]
+		<p class="latest_tweet">[% l('text_latest_tweets') %]([% IF dur.days %][% dur.days %][% l('text_days_ago') %][% ELSE %][% l('text_today') %][% END %]) : [% search.lastfind_text | html %]
+			<a href="http://twitter.com/search?q=[% twit.keyword | html %] from:[% twit.user_id_field.twitter_user | html %]" target="_blank">[% l('text_read_more') %]</a></p>
+	[% END %]
+
+	</div>
+[% END %]
+
+	<div id="logout">
+		<a href="[% base %]logout"><img id="button_use" src="/sorosorocurrytabetai/root/static/images/[% l('button_logout_img') %]" alt="[% l('button_logout_alt') %]" /></a>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
